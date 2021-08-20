@@ -1,1 +1,7 @@
-{"name":"Capri Pool","ticker":"CAPRI","description":"criptomoneda!futuro de las finanzas","homepage":"https://www.poolcapri.com/"
+{
+"name":"Poldi Pool",
+"ticker":"POLDI",
+"description":"criptomoneda!futuro de las finanzas",
+"extendido":"https://raw.githubusercontent.com/Capri20/m/main/extendido.json",
+"homepage":"https://www.poolcapri.com/"
+} 
