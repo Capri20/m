@@ -1,0 +1,33 @@
+{ 
+      " información " : { 
+        " url_png_icon_64x64 " : " https://raw.githubusercontent.com/Pilo20/tero/main/l1.png " , 
+        " url_png_logo " : " https://raw.githubusercontent.com/Pilo20/tero/main/l1.png " , 
+        " ubicación " : " Cuenca, ECUADOR " , 
+          " social " : { 
+              " twitter_handle " : "PoldiPool" , 
+              " instagram_handle " : "PoolCapri" , 
+              " facebook_handle " : "PoldiPool" , 
+              " telegram_handle " : "" 
+             }, 
+        " empresa " : { 
+            " nombre " : " " , 
+            " addr " : " " , 
+            " ciudad " : " " , 
+            " país " : " " , 
+            " company_id " : " " , 
+            " vat_id " : " " 
+        }, 
+        " acerca de " : { 
+            " yo " : " operado desde un pequeño grupo en Cuenca-Ecuador, estamos felices de ser parte de la comunidad cardano. " , 
+            " servidor " : " Red de 4 servidores de 8GB, ubicados en Cuenca - Ecuador. " , 
+            " empresa " : " " 
+        } 
+    }, 
+    " my-pool-ids " : { 
+        " 0 " : "" , 
+        " 1 " : " " 
+    }, 
+    " telegram-admin-handle " : { 
+        " 0 " : "" 
+    } 
+} 
